@@ -1,0 +1,27 @@
+{
+  "name": "expressjs-practice",
+  "version": "1.0.0",
+  "description": "Me learning how to use express js",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "dev": "nodemon index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Reilly66/ExpressJS-Practice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Reilly66/ExpressJS-Practice/issues"
+  },
+  "homepage": "https://github.com/Reilly66/ExpressJS-Practice#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.19"
+  }
+}
